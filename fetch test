@@ -3,3 +3,7 @@ or loop on a list
 >>> product = 1
 >>> for number in numbers:
 ...    product = product * number
+
+
+
+Python 3: Fibonacci series up to n
